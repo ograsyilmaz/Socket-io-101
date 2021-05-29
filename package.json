@@ -1,0 +1,13 @@
+{
+  "name": "socket-io-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ograsyilmaz/Socket-io-101.git",
+  "author": "ograsyilmaz <yilmazogras@outlook.com.tr>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
